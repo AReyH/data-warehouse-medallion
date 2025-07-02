@@ -1,3 +1,12 @@
+/*
+Create database and schemas
+
+Script purpose:
+  This script creates a new database named `DATAWAREHOUSE`. The script then creates
+  the three schemas necessary for the Medallion Architecture; `BRONZE`, `SILVER`, `GOLD`.
+
+*/
+
 -- Use the super role
 use role accountadmin;
 
