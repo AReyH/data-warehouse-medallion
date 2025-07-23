@@ -1,3 +1,12 @@
+/*
+Create tables on the silver layer
+
+Script purpose:
+  This script creates the tables (drops and creates if they previously existed)
+  in the Silver layer. Do not run this unless you want to create the Silver layer
+  from scratch.
+
+*/
 
 
 drop table if exists silver.crm_cust_info;
