@@ -65,8 +65,9 @@ Implementing a medallion-style data warehouse in Snowflake with JavaScript store
 
 ## Repository Structure
 
+```
 dataset/   → Sample datasets used for the project  
 docs/      → In-depth documentation and architecture explanations  
 scripts/   → All DDL, DML, and JavaScript stored procedures  
 tests/     → Scripts used to test data integrity and validate transformations
-
+```
