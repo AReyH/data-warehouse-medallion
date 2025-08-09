@@ -62,9 +62,3 @@ Implementing a medallion-style data warehouse in Snowflake with JavaScript store
 1. Review the architecture diagrams and modeling concepts in this repo.
 2. Explore the stored procedure scripts to understand the transformation logic.
 3. Adapt the patterns to your own Snowflake environment and datasets.
-
-
-## License
-
-This project is released under the [MIT License](LICENSE).
-
